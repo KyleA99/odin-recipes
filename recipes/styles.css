@@ -6,3 +6,9 @@
     font-family: "Garamond", sans-serif ;
     text-align: center;
 }
+
+.link.spaghetti,
+.link.skittle-water,
+.link.peppermint-bark {
+    font-size: 18px
+}
