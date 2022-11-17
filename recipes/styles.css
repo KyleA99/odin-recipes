@@ -1,3 +1,5 @@
+/**index.html page**/
+
 .recipe-page-title {
     background-color: brown;
     font-size: 42px;
@@ -11,4 +13,14 @@
 .link.skittle-water,
 .link.peppermint-bark {
     font-size: 18px
+}
+
+/**spaghetti.html**/
+
+.heading.spaghetti,
+.heading.skittle-water,
+.heading.peppermint-bark {
+    font-family: "Brush Script MT", "Times New Roman", sans-serif;
+    font-size: 60px;
+    text-align: center;
 }
