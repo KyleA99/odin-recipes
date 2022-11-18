@@ -34,3 +34,9 @@
     height: auto;
     width: 500px;
 }
+
+.citation.spaghetti,
+.citation.peppermint-bark,
+.citation.skittle-water {
+    font-size: 10px;
+}
